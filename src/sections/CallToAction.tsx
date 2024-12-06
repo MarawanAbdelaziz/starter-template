@@ -1,3 +1,5 @@
-export default function CallToAction() {
-    return <div>Call To Action</div>;
-}
+const CallToAction = () => {
+    return <div>CallToAction</div>;
+};
+
+export default CallToAction;
